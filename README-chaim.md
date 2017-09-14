@@ -17,7 +17,7 @@ To submit, add your link to the table below:
 | Week 9        | https://medium.com/towards-data-science/5-methods-to-remove-the-from-your-data-in-python-and-the-fastest-one-281489382455					|
 | Week 10       | https://medium.com/@chaimgluck1/running-random-forests-inspect-the-feature-importances-with-this-code-2b00dd72b92e					|
 | Week 11       | https://medium.com/@chaimgluck1/implementing-k-nearest-neighbors-with-scikit-learn-9e4858e231ea					|
-| Week 12       | **link**						|
+| Week 12       | https://medium.com/towards-data-science/identifying-when-poems-were-written-with-natural-language-processing-a40ff286bcd				|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
 
